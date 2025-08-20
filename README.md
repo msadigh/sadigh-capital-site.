@@ -17,4 +17,4 @@ npm run dev
 4. In GoDaddy DNS:
    - **A record** for `@` → `76.76.21.21` (Vercel apex)
    - **CNAME** for `www` → `cname.vercel-dns.com`
-5. Wait for DNS to propagate; you’re live.
+5. Wait for DNS to propagate; you’re live..
